@@ -42,7 +42,7 @@ public:
     void breadthFirstTraversal(T startLabel, void visit(T&)) override;
 
     // not normally available as part of the graph ADT but extremely helpful
-    void printAdjacencyList() const;
+    void printAdjecencyMatrix() const;
     std::vector<T> getLabels() const;
 };
 

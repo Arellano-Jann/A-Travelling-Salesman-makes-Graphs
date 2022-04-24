@@ -128,3 +128,55 @@ bool Graph<T>::remove(T startLabel, T endLabel){
     }
     return true;
 }
+
+template <typename T>
+int Graph<T>::getEdgeWeight(T startLabel, T endLabel){
+    int startIndex = getLabelIndex(startLabel);
+    int endIndex = getLabelIndex(endLabel);
+    if (startIndex == -1 || endIndex == -1) return INT_MAX; // label not found so exit
+    return adjacencyMatrix[startIndex][endIndex];
+}
+
+// cop
+template <typename T>
+void Graph<T>::depthFirstTraversal(T startLabel, void visit(T&)){
+    bool* seen_arr = new bool[vertexCount];
+    for (int i = 0; i < vertexCount; i++){
+        seen_arr[i] = false;
+    }
+    std::stack<T> label_stack;
+    depthTraversalHelper(startLabel, visit, seen_arr, label_stack);
+    delete[] seen_arr;
+}
+
+// cop
+template <typename T>
+void Graph<T>::breadthFirstTraversal(T startLabel, void visit(T&)){
+    bool* seen_arr = new bool[vertexCount];
+    for (int i = 0; i < vertexCount; i++){
+        seen_arr[i] = false;
+    }
+    std::queue<T> label_queue;
+    breadthTraversalHelper(startLabel, visit, seen_arr, label_queue);
+    delete[] seen_arr;
+}
+
+template <typename T>
+void Graph<T>::printAdjecencyMatrix() const{
+    for (int i = 0; i < vertexCount; i++){
+        for (int j = 0; j < vertexCount; j++){
+            std::cout << adjacencyMatrix[i][j] << " ";
+        }
+        std::cout << std::endl;
+    }
+    std::cout << "Other implement" << std::endl;
+    for (int i = 0; i < adjacencyMatrix.size(); i++){
+        for (int j = 0; j < adjacencyMatrix[i].size(); j++){
+            std::cout << adjacencyMatrix[i][j] << " ";
+        }
+        std::cout << std::endl;
+    }
+}
+
+template <typename T>
+std::vector<T> Graph<T>::getLabels() const{ return labels; }
