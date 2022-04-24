@@ -1,4 +1,3 @@
-city 1	city 2	distance
 SF	Reno	218
 SF	Seattle	808
 SF	SLC	736
