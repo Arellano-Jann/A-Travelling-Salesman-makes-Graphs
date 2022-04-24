@@ -19,10 +19,10 @@ class Graph : public GraphInterface<T>{
 private:
     std::vector<T> labels; // holds all the keys/labels
     // std::vector<std::vector<GraphNode<T>>> adjacency_list; // the "values" for our pseudo-map
-    std::vector<std::vector<int>> adjacency_matrix; // holds edge weight
+    std::vector<std::vector<int>> adjacencyMatrix; // holds edge weight
 
-    int vertex_count = 0;
-    int edge_count = 0;
+    int vertexCount = 0;
+    int edgeCount = 0;
 protected:
     int getLabelIndex(T label) const; //get index of label in label list, -1 if not present
     // int getSublistIndex(T major_label, T minor_label) const; // get index of node in major_label's adjacency sublist
@@ -33,13 +33,13 @@ public:
     int getNumVertices() const override;
     int getNumEdges() const override;
 
-    bool add(T start_label, T end_label, int edge_weight) override;
-    bool remove(T start_label, T end_label) override;
+    bool add(T startLabel, T endLabel, int edgeWeight) override;
+    bool remove(T startLabel, T endLabel) override;
 
-    int getEdgeWeight(T start_label, T end_label) override;
+    int getEdgeWeight(T startLabel, T endLabel) override;
 
-    void depthFirstTraversal(T start_label, void visit(T&)) override;
-    void breadthFirstTraversal(T start_label, void visit(T&)) override;
+    void depthFirstTraversal(T startLabel, void visit(T&)) override;
+    void breadthFirstTraversal(T startLabel, void visit(T&)) override;
 
     // not normally available as part of the graph ADT but extremely helpful
     void printAdjacencyList() const;
