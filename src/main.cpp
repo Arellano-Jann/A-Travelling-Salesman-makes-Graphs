@@ -19,6 +19,9 @@ int main(){
         graph.add(city1, city2, distance);
         graph.add(city2, city1, distance);
     }
+
+
+    // Prints
     graph.printAdjecencyMatrix();
     std::cout << "Graph size: " << graph.getNumVertices() << std::endl;
     std::cout << "Graph edges: " << graph.getNumEdges() << std::endl;
