@@ -17,7 +17,14 @@ int main(){
     int distance;
     while (file >> city1 >> city2 >> distance){
         graph.add(city1, city2, distance);
+        graph.add(city2, city1, distance);
     }
     graph.printAdjecencyMatrix();
+    std::cout << "Graph size: " << graph.getNumVertices() << std::endl;
+    std::cout << "Graph edges: " << graph.getNumEdges() << std::endl;
+    for (int i = 0; i < graph.getLabels().size(); i++){
+        std::cout << graph.getLabels()[i] << std::endl;
+    }
+
     return 0;
 }
