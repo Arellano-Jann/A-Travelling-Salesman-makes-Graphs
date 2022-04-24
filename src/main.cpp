@@ -4,6 +4,8 @@
 #include <iostream>
 
 int main(){
-
+    int mpg = 40;
+    Graph<std::string> graph;
+    graph.add("A", "B", mpg);
     return 0;
 }

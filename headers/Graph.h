@@ -38,7 +38,7 @@ public:
 
     int getEdgeWeight(T startLabel, T endLabel) override;
 
-    void depthFirstTraversal(T startLabel, void visit(T&)) override;
+    void depthFirstTraversal(T startLabel, void visit(T&)) override; // layer search
     void breadthFirstTraversal(T startLabel, void visit(T&)) override;
 
     // not normally available as part of the graph ADT but extremely helpful

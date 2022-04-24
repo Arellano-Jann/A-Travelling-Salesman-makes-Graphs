@@ -1,0 +1,11 @@
+city 1	city 2	distance
+SF	Reno	218
+SF	Seattle	808
+SF	SLC	736
+SF	Vegas	571
+Reno	Seattle	750
+Reno	SLC	518
+Reno	Vegas	448
+Seattle	SLC	841
+Seattle	Vegas	1260
+SLC	Vegas	422

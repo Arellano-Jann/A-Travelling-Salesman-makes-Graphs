@@ -12,12 +12,12 @@ DIRS = $(HDIR) $(CDIR) $(ODIR)
 $(shell mkdir -p $(DIRS))
 
 $(ODIR)/%.o: %.cpp $(DEPS)
-    g++ $(CPPFLAGS) -c $< -o $@
+	g++ $(CPPFLAGS) -c $< -o $@
 
 main: $(OBJS)
-    g++ $(CPPFLAGS) -o $@ $^
+	g++ $(CPPFLAGS) -o $@ $^
 
 clean:
-    rm $(ODIR)/*.o main
+	rm $(ODIR)/*.o main
 
 .PHONY: clean all
