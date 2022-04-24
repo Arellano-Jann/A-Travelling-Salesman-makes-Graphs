@@ -24,7 +24,7 @@ private:
     int vertexCount = 0;
     int edgeCount = 0;
 protected:
-    int getLabelIndex(T label) const; //get index of label in label list, -1 if not present
+    int getLabelIndex(T label) const; // get index of label in labels
     // int getSublistIndex(T major_label, T minor_label) const; // get index of node in major_label's adjacency sublist
 
     void depthTraversalHelper(T label, void visit(T&), bool* seen_arr, std::stack<T>& label_stack);
@@ -39,9 +39,9 @@ public:
     int getEdgeWeight(T startLabel, T endLabel) override;
 
     void depthFirstTraversal(T startLabel, void visit(T&)) override; // layer search
-    void breadthFirstTraversal(T startLabel, void visit(T&)) override;
+    void breadthFirstTraversal(T startLabel, void visit(T&)) override; // deep search
 
-    // not normally available as part of the graph ADT but extremely helpful
+    // some print functions
     void printAdjecencyMatrix() const;
     std::vector<T> getLabels() const;
 };
