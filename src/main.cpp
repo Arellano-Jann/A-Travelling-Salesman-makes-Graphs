@@ -83,7 +83,7 @@ int main(){
 
                         int currentPermutation = graph.getEdgeWeight(cities[first], cities[second]) + graph.getEdgeWeight(cities[second], cities[third]) + graph.getEdgeWeight(cities[third], cities[fourth]) + graph.getEdgeWeight(cities[fourth], cities[fifth]) + graph.getEdgeWeight(cities[fifth], cities[first]);
 
-                        outfile << cities[first] << " -> " << cities[second] << " -> " << cities[third] << " -> " << cities[fourth] << " -> " << cities[fifth] <<  " -> " << cities[first] << " Total Cost: " << currentPermutation*mpg << std::endl;
+                        outfile << cities[first] << " -> " << cities[second] << " -> " << cities[third] << " -> " << cities[fourth] << " -> " << cities[fifth] <<  " -> " << cities[first] << " | Total Cost: $" << currentPermutation*mpg << " Miles: " << currentPermutation << std::endl;
 
                         // bool isValid = first != second && first != third && first != fourth && first != fifth && second != third && second != fourth && second != fifth && third != fourth && third != fifth && fourth != fifth;
 
@@ -101,10 +101,12 @@ int main(){
     //     }
     // }
 
-    outfile << "40 MPG CHEAPEST PRICE!!! : " << cities[smallestPath[0]] << " -> " << cities[smallestPath[1]] << " -> " << cities[smallestPath[2]] << " -> " << cities[smallestPath[3]] << " -> " << cities[smallestPath[4]] << " Total Cost: " << currentCheapest*mpg << std::endl;
+    outfile << "40 MPG CHEAPEST PRICE!!! : " << cities[smallestPath[0]] << " -> " << cities[smallestPath[1]] << " -> " << cities[smallestPath[2]] << " -> " << cities[smallestPath[3]] << " -> " << cities[smallestPath[4]] <<  " -> " << cities[smallestPath[0]] << " | Total Cost: $" << currentCheapest*mpg << " Miles: " << currentCheapest << std::endl;
 
-    std::cout << "40 MPG CHEAPEST PRICE!!! : " << cities[smallestPath[0]] << " -> " << cities[smallestPath[1]] << " -> " << cities[smallestPath[2]] << " -> " << cities[smallestPath[3]] << " -> " << cities[smallestPath[4]] << " Total Cost: " << currentCheapest*mpg << std::endl;
+    std::cout << "40 MPG CHEAPEST PRICE!!! : " << cities[smallestPath[0]] << " -> " << cities[smallestPath[1]] << " -> " << cities[smallestPath[2]] << " -> " << cities[smallestPath[3]] << " -> " << cities[smallestPath[4]] <<  " -> " << cities[smallestPath[0]] << " | Total Cost: $" << currentCheapest*mpg << " Miles: " << currentCheapest << std::endl;
     std::cout << "The above info is found at the bottom of travelling_sailor.txt" << std::endl;
+
+    // graph.depthFirstTraversal(cities[0], [](int& i) mutable { std::cout << std::to_string(i) << " "; });
 
 
     // Prints
