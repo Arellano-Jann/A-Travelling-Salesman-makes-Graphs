@@ -165,14 +165,16 @@ template <typename T>
 void Graph<T>::printAdjecencyMatrix() const{
     for (int i = 0; i < vertexCount; i++){
         for (int j = 0; j < vertexCount; j++){
-            std::cout << adjacencyMatrix[i][j] << " ";
+            // std::cout << adjacencyMatrix[i][j] << " ";
+            std::cout << std::left << std::setw(11) << std::setfill(' ') << adjacencyMatrix[i][j];
         }
         std::cout << std::endl;
     }
-    std::cout << "Other implement" << std::endl;
+    std::cout  << std::endl << "Other implement" << std::endl;
     for (int i = 0; i < adjacencyMatrix.size(); i++){
         for (int j = 0; j < adjacencyMatrix[i].size(); j++){
-            std::cout << adjacencyMatrix[i][j] << " ";
+            // std::cout << adjacencyMatrix[i][j] << " ";
+            std::cout << std::left << std::setw(11) << std::setfill(' ') << adjacencyMatrix[i][j];
         }
         std::cout << std::endl;
     }
