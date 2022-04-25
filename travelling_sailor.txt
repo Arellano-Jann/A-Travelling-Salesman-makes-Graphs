@@ -1,121 +1,121 @@
-Reno -> SF -> Seattle -> SLC -> Vegas -> Reno | Total Cost: $109480 Miles: 2737
-Reno -> SF -> Seattle -> Vegas -> SLC -> Reno | Total Cost: $129040 Miles: 3226
-Reno -> SF -> SLC -> Seattle -> Vegas -> Reno | Total Cost: $140120 Miles: 3503
-Reno -> SF -> SLC -> Vegas -> Seattle -> Reno | Total Cost: $135440 Miles: 3386
-Reno -> SF -> Vegas -> Seattle -> SLC -> Reno | Total Cost: $136320 Miles: 3408
-Reno -> SF -> Vegas -> SLC -> Seattle -> Reno | Total Cost: $112080 Miles: 2802
-Reno -> Seattle -> SF -> SLC -> Vegas -> Reno | Total Cost: $126560 Miles: 3164
-Reno -> Seattle -> SF -> Vegas -> SLC -> Reno | Total Cost: $122760 Miles: 3069
-Reno -> Seattle -> SLC -> SF -> Vegas -> Reno | Total Cost: $133840 Miles: 3346
-Reno -> Seattle -> SLC -> Vegas -> SF -> Reno | Total Cost: $112080 Miles: 2802
-Reno -> Seattle -> Vegas -> SF -> SLC -> Reno | Total Cost: $153400 Miles: 3835
-Reno -> Seattle -> Vegas -> SLC -> SF -> Reno | Total Cost: $135440 Miles: 3386
-Reno -> SLC -> SF -> Seattle -> Vegas -> Reno | Total Cost: $150800 Miles: 3770
-Reno -> SLC -> SF -> Vegas -> Seattle -> Reno | Total Cost: $153400 Miles: 3835
-Reno -> SLC -> Seattle -> SF -> Vegas -> Reno | Total Cost: $127440 Miles: 3186
-Reno -> SLC -> Seattle -> Vegas -> SF -> Reno | Total Cost: $136320 Miles: 3408
-Reno -> SLC -> Vegas -> SF -> Seattle -> Reno | Total Cost: $122760 Miles: 3069
-Reno -> SLC -> Vegas -> Seattle -> SF -> Reno | Total Cost: $129040 Miles: 3226
-Reno -> Vegas -> SF -> Seattle -> SLC -> Reno | Total Cost: $127440 Miles: 3186
-Reno -> Vegas -> SF -> SLC -> Seattle -> Reno | Total Cost: $133840 Miles: 3346
-Reno -> Vegas -> Seattle -> SF -> SLC -> Reno | Total Cost: $150800 Miles: 3770
-Reno -> Vegas -> Seattle -> SLC -> SF -> Reno | Total Cost: $140120 Miles: 3503
-Reno -> Vegas -> SLC -> SF -> Seattle -> Reno | Total Cost: $126560 Miles: 3164
-Reno -> Vegas -> SLC -> Seattle -> SF -> Reno | Total Cost: $109480 Miles: 2737
-SF -> Reno -> Seattle -> SLC -> Vegas -> SF | Total Cost: $112080 Miles: 2802
-SF -> Reno -> Seattle -> Vegas -> SLC -> SF | Total Cost: $135440 Miles: 3386
-SF -> Reno -> SLC -> Seattle -> Vegas -> SF | Total Cost: $136320 Miles: 3408
-SF -> Reno -> SLC -> Vegas -> Seattle -> SF | Total Cost: $129040 Miles: 3226
-SF -> Reno -> Vegas -> Seattle -> SLC -> SF | Total Cost: $140120 Miles: 3503
-SF -> Reno -> Vegas -> SLC -> Seattle -> SF | Total Cost: $109480 Miles: 2737
-SF -> Seattle -> Reno -> SLC -> Vegas -> SF | Total Cost: $122760 Miles: 3069
-SF -> Seattle -> Reno -> Vegas -> SLC -> SF | Total Cost: $126560 Miles: 3164
-SF -> Seattle -> SLC -> Reno -> Vegas -> SF | Total Cost: $127440 Miles: 3186
-SF -> Seattle -> SLC -> Vegas -> Reno -> SF | Total Cost: $109480 Miles: 2737
-SF -> Seattle -> Vegas -> Reno -> SLC -> SF | Total Cost: $150800 Miles: 3770
-SF -> Seattle -> Vegas -> SLC -> Reno -> SF | Total Cost: $129040 Miles: 3226
-SF -> SLC -> Reno -> Seattle -> Vegas -> SF | Total Cost: $153400 Miles: 3835
-SF -> SLC -> Reno -> Vegas -> Seattle -> SF | Total Cost: $150800 Miles: 3770
-SF -> SLC -> Seattle -> Reno -> Vegas -> SF | Total Cost: $133840 Miles: 3346
-SF -> SLC -> Seattle -> Vegas -> Reno -> SF | Total Cost: $140120 Miles: 3503
-SF -> SLC -> Vegas -> Reno -> Seattle -> SF | Total Cost: $126560 Miles: 3164
-SF -> SLC -> Vegas -> Seattle -> Reno -> SF | Total Cost: $135440 Miles: 3386
-SF -> Vegas -> Reno -> Seattle -> SLC -> SF | Total Cost: $133840 Miles: 3346
-SF -> Vegas -> Reno -> SLC -> Seattle -> SF | Total Cost: $127440 Miles: 3186
-SF -> Vegas -> Seattle -> Reno -> SLC -> SF | Total Cost: $153400 Miles: 3835
-SF -> Vegas -> Seattle -> SLC -> Reno -> SF | Total Cost: $136320 Miles: 3408
-SF -> Vegas -> SLC -> Reno -> Seattle -> SF | Total Cost: $122760 Miles: 3069
-SF -> Vegas -> SLC -> Seattle -> Reno -> SF | Total Cost: $112080 Miles: 2802
-Seattle -> Reno -> SF -> SLC -> Vegas -> Seattle | Total Cost: $135440 Miles: 3386
-Seattle -> Reno -> SF -> Vegas -> SLC -> Seattle | Total Cost: $112080 Miles: 2802
-Seattle -> Reno -> SLC -> SF -> Vegas -> Seattle | Total Cost: $153400 Miles: 3835
-Seattle -> Reno -> SLC -> Vegas -> SF -> Seattle | Total Cost: $122760 Miles: 3069
-Seattle -> Reno -> Vegas -> SF -> SLC -> Seattle | Total Cost: $133840 Miles: 3346
-Seattle -> Reno -> Vegas -> SLC -> SF -> Seattle | Total Cost: $126560 Miles: 3164
-Seattle -> SF -> Reno -> SLC -> Vegas -> Seattle | Total Cost: $129040 Miles: 3226
-Seattle -> SF -> Reno -> Vegas -> SLC -> Seattle | Total Cost: $109480 Miles: 2737
-Seattle -> SF -> SLC -> Reno -> Vegas -> Seattle | Total Cost: $150800 Miles: 3770
-Seattle -> SF -> SLC -> Vegas -> Reno -> Seattle | Total Cost: $126560 Miles: 3164
-Seattle -> SF -> Vegas -> Reno -> SLC -> Seattle | Total Cost: $127440 Miles: 3186
-Seattle -> SF -> Vegas -> SLC -> Reno -> Seattle | Total Cost: $122760 Miles: 3069
-Seattle -> SLC -> Reno -> SF -> Vegas -> Seattle | Total Cost: $136320 Miles: 3408
-Seattle -> SLC -> Reno -> Vegas -> SF -> Seattle | Total Cost: $127440 Miles: 3186
-Seattle -> SLC -> SF -> Reno -> Vegas -> Seattle | Total Cost: $140120 Miles: 3503
-Seattle -> SLC -> SF -> Vegas -> Reno -> Seattle | Total Cost: $133840 Miles: 3346
-Seattle -> SLC -> Vegas -> Reno -> SF -> Seattle | Total Cost: $109480 Miles: 2737
-Seattle -> SLC -> Vegas -> SF -> Reno -> Seattle | Total Cost: $112080 Miles: 2802
-Seattle -> Vegas -> Reno -> SF -> SLC -> Seattle | Total Cost: $140120 Miles: 3503
-Seattle -> Vegas -> Reno -> SLC -> SF -> Seattle | Total Cost: $150800 Miles: 3770
-Seattle -> Vegas -> SF -> Reno -> SLC -> Seattle | Total Cost: $136320 Miles: 3408
-Seattle -> Vegas -> SF -> SLC -> Reno -> Seattle | Total Cost: $153400 Miles: 3835
-Seattle -> Vegas -> SLC -> Reno -> SF -> Seattle | Total Cost: $129040 Miles: 3226
-Seattle -> Vegas -> SLC -> SF -> Reno -> Seattle | Total Cost: $135440 Miles: 3386
-SLC -> Reno -> SF -> Seattle -> Vegas -> SLC | Total Cost: $129040 Miles: 3226
-SLC -> Reno -> SF -> Vegas -> Seattle -> SLC | Total Cost: $136320 Miles: 3408
-SLC -> Reno -> Seattle -> SF -> Vegas -> SLC | Total Cost: $122760 Miles: 3069
-SLC -> Reno -> Seattle -> Vegas -> SF -> SLC | Total Cost: $153400 Miles: 3835
-SLC -> Reno -> Vegas -> SF -> Seattle -> SLC | Total Cost: $127440 Miles: 3186
-SLC -> Reno -> Vegas -> Seattle -> SF -> SLC | Total Cost: $150800 Miles: 3770
-SLC -> SF -> Reno -> Seattle -> Vegas -> SLC | Total Cost: $135440 Miles: 3386
-SLC -> SF -> Reno -> Vegas -> Seattle -> SLC | Total Cost: $140120 Miles: 3503
-SLC -> SF -> Seattle -> Reno -> Vegas -> SLC | Total Cost: $126560 Miles: 3164
-SLC -> SF -> Seattle -> Vegas -> Reno -> SLC | Total Cost: $150800 Miles: 3770
-SLC -> SF -> Vegas -> Reno -> Seattle -> SLC | Total Cost: $133840 Miles: 3346
-SLC -> SF -> Vegas -> Seattle -> Reno -> SLC | Total Cost: $153400 Miles: 3835
-SLC -> Seattle -> Reno -> SF -> Vegas -> SLC | Total Cost: $112080 Miles: 2802
-SLC -> Seattle -> Reno -> Vegas -> SF -> SLC | Total Cost: $133840 Miles: 3346
-SLC -> Seattle -> SF -> Reno -> Vegas -> SLC | Total Cost: $109480 Miles: 2737
-SLC -> Seattle -> SF -> Vegas -> Reno -> SLC | Total Cost: $127440 Miles: 3186
-SLC -> Seattle -> Vegas -> Reno -> SF -> SLC | Total Cost: $140120 Miles: 3503
-SLC -> Seattle -> Vegas -> SF -> Reno -> SLC | Total Cost: $136320 Miles: 3408
-SLC -> Vegas -> Reno -> SF -> Seattle -> SLC | Total Cost: $109480 Miles: 2737
-SLC -> Vegas -> Reno -> Seattle -> SF -> SLC | Total Cost: $126560 Miles: 3164
-SLC -> Vegas -> SF -> Reno -> Seattle -> SLC | Total Cost: $112080 Miles: 2802
-SLC -> Vegas -> SF -> Seattle -> Reno -> SLC | Total Cost: $122760 Miles: 3069
-SLC -> Vegas -> Seattle -> Reno -> SF -> SLC | Total Cost: $135440 Miles: 3386
-SLC -> Vegas -> Seattle -> SF -> Reno -> SLC | Total Cost: $129040 Miles: 3226
-Vegas -> Reno -> SF -> Seattle -> SLC -> Vegas | Total Cost: $109480 Miles: 2737
-Vegas -> Reno -> SF -> SLC -> Seattle -> Vegas | Total Cost: $140120 Miles: 3503
-Vegas -> Reno -> Seattle -> SF -> SLC -> Vegas | Total Cost: $126560 Miles: 3164
-Vegas -> Reno -> Seattle -> SLC -> SF -> Vegas | Total Cost: $133840 Miles: 3346
-Vegas -> Reno -> SLC -> SF -> Seattle -> Vegas | Total Cost: $150800 Miles: 3770
-Vegas -> Reno -> SLC -> Seattle -> SF -> Vegas | Total Cost: $127440 Miles: 3186
-Vegas -> SF -> Reno -> Seattle -> SLC -> Vegas | Total Cost: $112080 Miles: 2802
-Vegas -> SF -> Reno -> SLC -> Seattle -> Vegas | Total Cost: $136320 Miles: 3408
-Vegas -> SF -> Seattle -> Reno -> SLC -> Vegas | Total Cost: $122760 Miles: 3069
-Vegas -> SF -> Seattle -> SLC -> Reno -> Vegas | Total Cost: $127440 Miles: 3186
-Vegas -> SF -> SLC -> Reno -> Seattle -> Vegas | Total Cost: $153400 Miles: 3835
-Vegas -> SF -> SLC -> Seattle -> Reno -> Vegas | Total Cost: $133840 Miles: 3346
-Vegas -> Seattle -> Reno -> SF -> SLC -> Vegas | Total Cost: $135440 Miles: 3386
-Vegas -> Seattle -> Reno -> SLC -> SF -> Vegas | Total Cost: $153400 Miles: 3835
-Vegas -> Seattle -> SF -> Reno -> SLC -> Vegas | Total Cost: $129040 Miles: 3226
-Vegas -> Seattle -> SF -> SLC -> Reno -> Vegas | Total Cost: $150800 Miles: 3770
-Vegas -> Seattle -> SLC -> Reno -> SF -> Vegas | Total Cost: $136320 Miles: 3408
-Vegas -> Seattle -> SLC -> SF -> Reno -> Vegas | Total Cost: $140120 Miles: 3503
-Vegas -> SLC -> Reno -> SF -> Seattle -> Vegas | Total Cost: $129040 Miles: 3226
-Vegas -> SLC -> Reno -> Seattle -> SF -> Vegas | Total Cost: $122760 Miles: 3069
-Vegas -> SLC -> SF -> Reno -> Seattle -> Vegas | Total Cost: $135440 Miles: 3386
-Vegas -> SLC -> SF -> Seattle -> Reno -> Vegas | Total Cost: $126560 Miles: 3164
-Vegas -> SLC -> Seattle -> Reno -> SF -> Vegas | Total Cost: $112080 Miles: 2802
-Vegas -> SLC -> Seattle -> SF -> Reno -> Vegas | Total Cost: $109480 Miles: 2737
-40 MPG CHEAPEST PRICE!!! : Reno -> SF -> Seattle -> SLC -> Vegas -> Reno | Total Cost: $109480 Miles: 2737
+Reno -> SF -> Seattle -> SLC -> Vegas -> Reno | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+Reno -> SF -> Seattle -> Vegas -> SLC -> Reno | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+Reno -> SF -> SLC -> Seattle -> Vegas -> Reno | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+Reno -> SF -> SLC -> Vegas -> Seattle -> Reno | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+Reno -> SF -> Vegas -> Seattle -> SLC -> Reno | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+Reno -> SF -> Vegas -> SLC -> Seattle -> Reno | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+Reno -> Seattle -> SF -> SLC -> Vegas -> Reno | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+Reno -> Seattle -> SF -> Vegas -> SLC -> Reno | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+Reno -> Seattle -> SLC -> SF -> Vegas -> Reno | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+Reno -> Seattle -> SLC -> Vegas -> SF -> Reno | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+Reno -> Seattle -> Vegas -> SF -> SLC -> Reno | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+Reno -> Seattle -> Vegas -> SLC -> SF -> Reno | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+Reno -> SLC -> SF -> Seattle -> Vegas -> Reno | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+Reno -> SLC -> SF -> Vegas -> Seattle -> Reno | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+Reno -> SLC -> Seattle -> SF -> Vegas -> Reno | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+Reno -> SLC -> Seattle -> Vegas -> SF -> Reno | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+Reno -> SLC -> Vegas -> SF -> Seattle -> Reno | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+Reno -> SLC -> Vegas -> Seattle -> SF -> Reno | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+Reno -> Vegas -> SF -> Seattle -> SLC -> Reno | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+Reno -> Vegas -> SF -> SLC -> Seattle -> Reno | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+Reno -> Vegas -> Seattle -> SF -> SLC -> Reno | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+Reno -> Vegas -> Seattle -> SLC -> SF -> Reno | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+Reno -> Vegas -> SLC -> SF -> Seattle -> Reno | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+Reno -> Vegas -> SLC -> Seattle -> SF -> Reno | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+SF -> Reno -> Seattle -> SLC -> Vegas -> SF | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+SF -> Reno -> Seattle -> Vegas -> SLC -> SF | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+SF -> Reno -> SLC -> Seattle -> Vegas -> SF | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+SF -> Reno -> SLC -> Vegas -> Seattle -> SF | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+SF -> Reno -> Vegas -> Seattle -> SLC -> SF | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+SF -> Reno -> Vegas -> SLC -> Seattle -> SF | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+SF -> Seattle -> Reno -> SLC -> Vegas -> SF | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+SF -> Seattle -> Reno -> Vegas -> SLC -> SF | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+SF -> Seattle -> SLC -> Reno -> Vegas -> SF | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+SF -> Seattle -> SLC -> Vegas -> Reno -> SF | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+SF -> Seattle -> Vegas -> Reno -> SLC -> SF | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+SF -> Seattle -> Vegas -> SLC -> Reno -> SF | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+SF -> SLC -> Reno -> Seattle -> Vegas -> SF | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+SF -> SLC -> Reno -> Vegas -> Seattle -> SF | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+SF -> SLC -> Seattle -> Reno -> Vegas -> SF | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+SF -> SLC -> Seattle -> Vegas -> Reno -> SF | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+SF -> SLC -> Vegas -> Reno -> Seattle -> SF | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+SF -> SLC -> Vegas -> Seattle -> Reno -> SF | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+SF -> Vegas -> Reno -> Seattle -> SLC -> SF | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+SF -> Vegas -> Reno -> SLC -> Seattle -> SF | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+SF -> Vegas -> Seattle -> Reno -> SLC -> SF | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+SF -> Vegas -> Seattle -> SLC -> Reno -> SF | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+SF -> Vegas -> SLC -> Reno -> Seattle -> SF | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+SF -> Vegas -> SLC -> Seattle -> Reno -> SF | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+Seattle -> Reno -> SF -> SLC -> Vegas -> Seattle | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+Seattle -> Reno -> SF -> Vegas -> SLC -> Seattle | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+Seattle -> Reno -> SLC -> SF -> Vegas -> Seattle | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+Seattle -> Reno -> SLC -> Vegas -> SF -> Seattle | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+Seattle -> Reno -> Vegas -> SF -> SLC -> Seattle | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+Seattle -> Reno -> Vegas -> SLC -> SF -> Seattle | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+Seattle -> SF -> Reno -> SLC -> Vegas -> Seattle | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+Seattle -> SF -> Reno -> Vegas -> SLC -> Seattle | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+Seattle -> SF -> SLC -> Reno -> Vegas -> Seattle | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+Seattle -> SF -> SLC -> Vegas -> Reno -> Seattle | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+Seattle -> SF -> Vegas -> Reno -> SLC -> Seattle | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+Seattle -> SF -> Vegas -> SLC -> Reno -> Seattle | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+Seattle -> SLC -> Reno -> SF -> Vegas -> Seattle | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+Seattle -> SLC -> Reno -> Vegas -> SF -> Seattle | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+Seattle -> SLC -> SF -> Reno -> Vegas -> Seattle | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+Seattle -> SLC -> SF -> Vegas -> Reno -> Seattle | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+Seattle -> SLC -> Vegas -> Reno -> SF -> Seattle | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+Seattle -> SLC -> Vegas -> SF -> Reno -> Seattle | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+Seattle -> Vegas -> Reno -> SF -> SLC -> Seattle | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+Seattle -> Vegas -> Reno -> SLC -> SF -> Seattle | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+Seattle -> Vegas -> SF -> Reno -> SLC -> Seattle | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+Seattle -> Vegas -> SF -> SLC -> Reno -> Seattle | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+Seattle -> Vegas -> SLC -> Reno -> SF -> Seattle | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+Seattle -> Vegas -> SLC -> SF -> Reno -> Seattle | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+SLC -> Reno -> SF -> Seattle -> Vegas -> SLC | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+SLC -> Reno -> SF -> Vegas -> Seattle -> SLC | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+SLC -> Reno -> Seattle -> SF -> Vegas -> SLC | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+SLC -> Reno -> Seattle -> Vegas -> SF -> SLC | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+SLC -> Reno -> Vegas -> SF -> Seattle -> SLC | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+SLC -> Reno -> Vegas -> Seattle -> SF -> SLC | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+SLC -> SF -> Reno -> Seattle -> Vegas -> SLC | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+SLC -> SF -> Reno -> Vegas -> Seattle -> SLC | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+SLC -> SF -> Seattle -> Reno -> Vegas -> SLC | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+SLC -> SF -> Seattle -> Vegas -> Reno -> SLC | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+SLC -> SF -> Vegas -> Reno -> Seattle -> SLC | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+SLC -> SF -> Vegas -> Seattle -> Reno -> SLC | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+SLC -> Seattle -> Reno -> SF -> Vegas -> SLC | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+SLC -> Seattle -> Reno -> Vegas -> SF -> SLC | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+SLC -> Seattle -> SF -> Reno -> Vegas -> SLC | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+SLC -> Seattle -> SF -> Vegas -> Reno -> SLC | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+SLC -> Seattle -> Vegas -> Reno -> SF -> SLC | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+SLC -> Seattle -> Vegas -> SF -> Reno -> SLC | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+SLC -> Vegas -> Reno -> SF -> Seattle -> SLC | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+SLC -> Vegas -> Reno -> Seattle -> SF -> SLC | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+SLC -> Vegas -> SF -> Reno -> Seattle -> SLC | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+SLC -> Vegas -> SF -> Seattle -> Reno -> SLC | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+SLC -> Vegas -> Seattle -> Reno -> SF -> SLC | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+SLC -> Vegas -> Seattle -> SF -> Reno -> SLC | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+Vegas -> Reno -> SF -> Seattle -> SLC -> Vegas | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+Vegas -> Reno -> SF -> SLC -> Seattle -> Vegas | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+Vegas -> Reno -> Seattle -> SF -> SLC -> Vegas | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+Vegas -> Reno -> Seattle -> SLC -> SF -> Vegas | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+Vegas -> Reno -> SLC -> SF -> Seattle -> Vegas | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+Vegas -> Reno -> SLC -> Seattle -> SF -> Vegas | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+Vegas -> SF -> Reno -> Seattle -> SLC -> Vegas | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+Vegas -> SF -> Reno -> SLC -> Seattle -> Vegas | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+Vegas -> SF -> Seattle -> Reno -> SLC -> Vegas | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+Vegas -> SF -> Seattle -> SLC -> Reno -> Vegas | Total Gallons of Dinosaur Blood: 79 Miles: 3186
+Vegas -> SF -> SLC -> Reno -> Seattle -> Vegas | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+Vegas -> SF -> SLC -> Seattle -> Reno -> Vegas | Total Gallons of Dinosaur Blood: 83 Miles: 3346
+Vegas -> Seattle -> Reno -> SF -> SLC -> Vegas | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+Vegas -> Seattle -> Reno -> SLC -> SF -> Vegas | Total Gallons of Dinosaur Blood: 95 Miles: 3835
+Vegas -> Seattle -> SF -> Reno -> SLC -> Vegas | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+Vegas -> Seattle -> SF -> SLC -> Reno -> Vegas | Total Gallons of Dinosaur Blood: 94 Miles: 3770
+Vegas -> Seattle -> SLC -> Reno -> SF -> Vegas | Total Gallons of Dinosaur Blood: 85 Miles: 3408
+Vegas -> Seattle -> SLC -> SF -> Reno -> Vegas | Total Gallons of Dinosaur Blood: 87 Miles: 3503
+Vegas -> SLC -> Reno -> SF -> Seattle -> Vegas | Total Gallons of Dinosaur Blood: 80 Miles: 3226
+Vegas -> SLC -> Reno -> Seattle -> SF -> Vegas | Total Gallons of Dinosaur Blood: 76 Miles: 3069
+Vegas -> SLC -> SF -> Reno -> Seattle -> Vegas | Total Gallons of Dinosaur Blood: 84 Miles: 3386
+Vegas -> SLC -> SF -> Seattle -> Reno -> Vegas | Total Gallons of Dinosaur Blood: 79 Miles: 3164
+Vegas -> SLC -> Seattle -> Reno -> SF -> Vegas | Total Gallons of Dinosaur Blood: 70 Miles: 2802
+Vegas -> SLC -> Seattle -> SF -> Reno -> Vegas | Total Gallons of Dinosaur Blood: 68 Miles: 2737
+40 MPG CHEAPEST PRICE!!! : Reno -> SF -> Seattle -> SLC -> Vegas -> Reno | Total Gallons of Dinosaur Blood: 68 Miles: 2737
