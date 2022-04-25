@@ -1,7 +1,7 @@
 HDIR = headers
 CDIR = src
 ODIR = objs
-CPPFLAGS = -std=c++11 -g
+CPPFLAGS = -std=c++14 -g
 DEPS = $(wildcard $(HDIR)/*.h)
 OBJ_FILES = main.o# put all dependencies for driver here
 OBJS = $(patsubst %.o, $(ODIR)/%.o, $(OBJ_FILES))

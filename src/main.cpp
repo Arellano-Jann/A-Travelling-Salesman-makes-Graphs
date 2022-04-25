@@ -106,7 +106,8 @@ int main(){
     std::cout << "40 MPG CHEAPEST PRICE!!! : " << cities[smallestPath[0]] << " -> " << cities[smallestPath[1]] << " -> " << cities[smallestPath[2]] << " -> " << cities[smallestPath[3]] << " -> " << cities[smallestPath[4]] <<  " -> " << cities[smallestPath[0]] << " | Total Gallons of Dinosaur Blood: " << currentCheapest/mpg << " Miles: " << currentCheapest << std::endl;
     std::cout << "The above info is found at the bottom of travelling_sailor.txt" << std::endl;
 
-    // graph.depthFirstTraversal(cities[0], [](int& i) mutable { std::cout << std::to_string(i) << " "; });
+    graph.depthFirstTraversal(cities[0], [](auto i) mutable { std::cout << i << " "; });
+    graph.breadthFirstTraversal(cities[0], [](auto i) mutable { std::cout << i << " "; });
 
 
     // Prints
